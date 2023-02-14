@@ -20,3 +20,11 @@ NOTICES
 -------
 
 This library uses the Wicked Good XPath library (https://github.com/google/wicked-good-xpath) which is MIT licensed.
+
+
+Copyright and License
+---------------------
+
+Copyright 2023 Syncro Soft, SRL.
+
+This project is licensed under [MIT License](https://github.com/oxygenxml-incubator/web-author-xpath-plugin/blob/master/LICENSE)
