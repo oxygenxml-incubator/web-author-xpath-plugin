@@ -6,6 +6,6 @@
   name="XPath evaluator plugin"
   description="Plugin that adds functions to evaluate XPath functions (compatible with version 22.1+)"
   version="1.0"
-  vendor="Syncro Soft SRL">
+  vendor="Syncro Soft">
 </plugin>
 
