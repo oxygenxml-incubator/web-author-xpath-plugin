@@ -1,7 +1,7 @@
-XPath evaluator plugin
-======================
+XPath evaluator plugin (Experimental)
+=====================================
 
-Plugin that adds functions to evaluate XPath functions (compatible with version 22.1+).
+Experimental plugin that adds functions to evaluate XPath functions (compatible with version 22.1+).
 
 It adds two functions on the `EditingSupport` instance: `evaluateXPathAtSelection` and `evaluateXPath`. They take 3 parameters:
 - expression - the XPath expression to evaluate
